@@ -1,71 +1,70 @@
-# ground-client README
+# ⚡ Ground (0V) Client
 
-This is the README for your extension "ground-client". After writing up a brief description, we recommend including the following sections.
+<div align="center">
 
-## Features
+### A powerful, lightweight, **forever free** API client for VSCode
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-blue)](https://marketplace.visualstudio.com/)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
-For example if there is an image subfolder under your extension project workspace:
+</div>
 
-\!\[feature X\]\(images/feature-x.png\)
+## ⚡ Forever Free. No Restrictions. Open Source.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+**Ground Client** is built on a simple promise: **We will never charge you for features that should be free.**
 
-## Requirements
+- 🔄 No "premium" tiers
+- 🔄 No suddenly paywalled features
+- 🔄 No subscription traps
+- 🔄 No hidden limitations
+- 🔄 No ads
+- 🔄 No tracking
+- 🔄 EveryThing runs on your machine
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+✨ Because API testing shouldn't cost a fortune
 
-## Extension Settings
+Built by developers tired of seeing free tools go paid, Ground Client is to ensure it remains **FREE FOR EVERYONE, FOREVER**.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## 🛠️ Features
 
-For example:
+- ⚡ **Blazing fast performance**
+- 📝 **REST, GraphQL, WebSockets, SSE, Async API and gRPC** support
+- 💾 **Git-friendly storage** - Save requests as files and share with your team
+- 📊 **Request & Response History** with documentation features
+- 💬 **Comments & Annotations** for team collaboration
+- 🌐 **Environment Variables** for different contexts
+- 🔑 **Authentication** helpers (Basic, Bearer, OAuth, etc.)
 
-This extension contributes the following settings:
+## 📦 Installation
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+1. Open VSCode
+2. Go to Extensions (Ctrl+Shift+X / Cmd+Shift+X)
+3. Search for "Ground Client"
+4. Click Install
 
-## Known Issues
+## 📚 How to Use
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+1. Open the **Ground Client** panel from the activity bar
+2. Create a new collection for your project
+3. Add requests to test your APIs
+4. Save and share with your team via Git
 
-## Release Notes
+## 🤝 Community Driven
 
-Users appreciate release notes as you update your extension.
+Ground Client is built for the community, by the community. We believe in the power of open source to create better software for everyone.
 
-### 1.0.0
+- 🐛 Found a bug? [Open an issue](https://github.com/lukasjhan/ground-client/issues)
+- 💡 Have an idea? [Suggest a feature](https://github.com/lukasjhan/ground-client/issues)
 
-Initial release of ...
+## ⚖️ License
 
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+Ground Client is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ---
 
-## Following extension guidelines
+<div align="center">
 
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
+**Made with ❤️ by developers who believe great tools should be free**
 
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+</div>
